@@ -1,0 +1,4 @@
+*.in
+*.out
+*\.vscode
+todo.md
